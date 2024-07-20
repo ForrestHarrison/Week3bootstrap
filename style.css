@@ -1,0 +1,30 @@
+{
+    border-style: solid;
+    border-color: red;
+}
+
+
+body {
+    background-color: grey;
+    border-radius: 1rem;
+    margin: auto;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.form-group {
+    background-color: grey;
+    color: lightblue;
+    margin: auto;
+    text-align: left;
+}
+
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh
+}
+
